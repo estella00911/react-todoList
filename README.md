@@ -1,7 +1,7 @@
 # Jean's Project
 
-## React 學習
+## learn how to use React
 ### 1. Todo List
-- [留言板 Demo](https://estella00911.github.io/react-todoList/)
-- [專案](https://github.com/estella00911/react-todoList)
-使用 my-react-app 建置環境，以 functional component 做待辦清單的項目，學習如何使用 hook 例如：`useState`。
+- [to-do list Demo](https://estella00911.github.io/react-todoList/)
+- [Repository](https://github.com/estella00911/react-todoList)
+Set up an environment using my-react-app, and create a to-do list item with a functional component, learning how to use hooks such as useState.
